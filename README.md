@@ -1,4 +1,4 @@
-# ChangeTrackingAndInventoryUsingAMA
+# ChangeTrackingAndInventory
 
 # Contents
 1. MigrateToChangeTrackingAndInventoryUsingAMA
